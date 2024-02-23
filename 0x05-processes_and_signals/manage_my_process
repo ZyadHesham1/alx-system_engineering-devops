@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#another comment
+
+while true
+do
+	echo "I am Alive!" >> /tmp/my_process
+	sleep 2
+done
